@@ -2,4 +2,4 @@
 <html>
 <body>
 
-<h1>benett is stinky</h1>
+<h1>bennet is stinky</h1>
